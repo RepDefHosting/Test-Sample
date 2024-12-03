@@ -16,7 +16,7 @@ featuredImage:
 longBiography_MD: |
   {{long_biography}}
 ---
-![Test](/img/kevin-chern-headshot.jpeg "Caption")
+
 
 ![Test 2](/img/headshot.jpg "Caption 2")
 
