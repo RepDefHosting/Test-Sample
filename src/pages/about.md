@@ -2,9 +2,8 @@
 templateKey: about-page
 pageSlug: /about
 pageTitle: About {{client_name}}
-metaDescription: "You have been invited to create a user on
-  http://celadon-puppy-ef7c35.netlify.app. Follow this link to accept the
-  invite:"
+metaDescription: "You have been invited to create a user on test url for sample
+  purposes. Follow this link to accept the invite:"
 published: true
 schemaType: AboutPage
 header: About {{client_name}}
